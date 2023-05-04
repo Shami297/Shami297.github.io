@@ -45,14 +45,14 @@
             })
         },
 
-        demoActive: function(e) {
+        /* demoActive: function(e) {
             $('.rn-right-demo').on('click', function(e) {
                 $('.demo-modal-area').addClass('open');
             })
             $('.demo-close-btn').on('click', function(e) {
                 $('.demo-modal-area').removeClass('open');
             })
-        },
+        },*/
 
         contactForm: function() {
             $('.rwt-dynamic-form').on('submit', function(e) {
